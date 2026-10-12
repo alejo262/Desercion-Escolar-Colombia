@@ -1,0 +1,190 @@
+{
+  "ultimo_ano": 2024,
+  "promedio_ultimo": 0.040539393939393945,
+  "promedio_primero": 0.05073939393939394,
+  "promedio_anterior": 0.042512121212121216,
+  "top": [
+    {
+      "departamento": "Caquetá",
+      "desercion": 0.0665
+    },
+    {
+      "departamento": "Putumayo",
+      "desercion": 0.0649
+    },
+    {
+      "departamento": "Vichada",
+      "desercion": 0.06309999999999999
+    },
+    {
+      "departamento": "Risaralda",
+      "desercion": 0.0546
+    },
+    {
+      "departamento": "Vaupés",
+      "desercion": 0.053399999999999996
+    }
+  ],
+  "bottom": [
+    {
+      "departamento": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "desercion": 0.0194
+    },
+    {
+      "departamento": "Atlántico",
+      "desercion": 0.0217
+    },
+    {
+      "departamento": "Boyacá",
+      "desercion": 0.023799999999999998
+    }
+  ],
+  "niveles": {
+    "desercion_transicion": 0.04168787878787879,
+    "desercion_primaria": 0.03366363636363636,
+    "desercion_secundaria": 0.05217575757575758,
+    "desercion_media": 0.03366060606060606
+  },
+  "rangos_ultimo": {
+    "Media": 23,
+    "Baja": 7,
+    "Alta": 3
+  },
+  "bajan_ultimo": 23,
+  "suben_ultimo": 10,
+  "incrementos": [
+    {
+      "departamento": "Vaupés",
+      "variacion_interanual_pp": 0.9599999999999997
+    },
+    {
+      "departamento": "Putumayo",
+      "variacion_interanual_pp": 0.7699999999999998
+    },
+    {
+      "departamento": "Arauca",
+      "variacion_interanual_pp": 0.7299999999999994
+    }
+  ],
+  "reducciones": [
+    {
+      "departamento": "Guainía",
+      "variacion_interanual_pp": -1.2999999999999998
+    },
+    {
+      "departamento": "Archipiélago de San Andrés, Providencia y Santa Catalina",
+      "variacion_interanual_pp": -1.1099999999999999
+    },
+    {
+      "departamento": "Antioquia",
+      "variacion_interanual_pp": -1.0500000000000003
+    }
+  ],
+  "correlaciones_ultimo": {
+    "desercion": 1.0,
+    "aprobacion": -0.6491774151080466,
+    "reprobacion": 0.20902733806955925,
+    "cobertura_neta": -0.47240271431183156,
+    "cobertura_bruta": -0.4721822292828175
+  },
+  "evolucion": [
+    {
+      "ano": 2011,
+      "promedio_desercion": 0.05073939393939394,
+      "minimo_desercion": 0.0172,
+      "maximo_desercion": 0.1094,
+      "registros": 33
+    },
+    {
+      "ano": 2012,
+      "promedio_desercion": 0.048475757575757575,
+      "minimo_desercion": 0.0126,
+      "maximo_desercion": 0.0891,
+      "registros": 33
+    },
+    {
+      "ano": 2013,
+      "promedio_desercion": 0.04180909090909091,
+      "minimo_desercion": 0.0091,
+      "maximo_desercion": 0.0917,
+      "registros": 33
+    },
+    {
+      "ano": 2014,
+      "promedio_desercion": 0.03555151515151515,
+      "minimo_desercion": 0.012199999999999999,
+      "maximo_desercion": 0.0786,
+      "registros": 33
+    },
+    {
+      "ano": 2015,
+      "promedio_desercion": 0.038933333333333334,
+      "minimo_desercion": 0.0063,
+      "maximo_desercion": 0.09230000000000001,
+      "registros": 33
+    },
+    {
+      "ano": 2016,
+      "promedio_desercion": 0.04383030303030303,
+      "minimo_desercion": 0.0167,
+      "maximo_desercion": 0.0821,
+      "registros": 33
+    },
+    {
+      "ano": 2017,
+      "promedio_desercion": 0.03762424242424243,
+      "minimo_desercion": 0.0115,
+      "maximo_desercion": 0.08650000000000001,
+      "registros": 33
+    },
+    {
+      "ano": 2018,
+      "promedio_desercion": 0.034800000000000005,
+      "minimo_desercion": 0.0134,
+      "maximo_desercion": 0.07139999999999999,
+      "registros": 33
+    },
+    {
+      "ano": 2019,
+      "promedio_desercion": 0.0354939393939394,
+      "minimo_desercion": 0.0126,
+      "maximo_desercion": 0.07629999999999999,
+      "registros": 33
+    },
+    {
+      "ano": 2020,
+      "promedio_desercion": 0.02947878787878788,
+      "minimo_desercion": 0.0046,
+      "maximo_desercion": 0.0858,
+      "registros": 33
+    },
+    {
+      "ano": 2021,
+      "promedio_desercion": 0.0423,
+      "minimo_desercion": 0.0070999999999999995,
+      "maximo_desercion": 0.10279999999999999,
+      "registros": 33
+    },
+    {
+      "ano": 2022,
+      "promedio_desercion": 0.047284848484848485,
+      "minimo_desercion": 0.0264,
+      "maximo_desercion": 0.0708,
+      "registros": 33
+    },
+    {
+      "ano": 2023,
+      "promedio_desercion": 0.042512121212121216,
+      "minimo_desercion": 0.0212,
+      "maximo_desercion": 0.0689,
+      "registros": 33
+    },
+    {
+      "ano": 2024,
+      "promedio_desercion": 0.040539393939393945,
+      "minimo_desercion": 0.0194,
+      "maximo_desercion": 0.0665,
+      "registros": 33
+    }
+  ]
+}
